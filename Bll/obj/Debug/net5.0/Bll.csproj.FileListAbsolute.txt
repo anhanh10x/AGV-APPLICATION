@@ -1,0 +1,17 @@
+D:\ProjC#\Solution1\Bll\bin\Debug\net5.0\Bll.deps.json
+D:\ProjC#\Solution1\Bll\bin\Debug\net5.0\Bll.dll
+D:\ProjC#\Solution1\Bll\bin\Debug\net5.0\ref\Bll.dll
+D:\ProjC#\Solution1\Bll\bin\Debug\net5.0\Bll.pdb
+D:\ProjC#\Solution1\Bll\bin\Debug\net5.0\Dal.dll
+D:\ProjC#\Solution1\Bll\bin\Debug\net5.0\Dto.dll
+D:\ProjC#\Solution1\Bll\bin\Debug\net5.0\Dal.pdb
+D:\ProjC#\Solution1\Bll\bin\Debug\net5.0\Dto.pdb
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\Bll.csproj.AssemblyReference.cache
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\Bll.AssemblyInfoInputs.cache
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\Bll.AssemblyInfo.cs
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\Bll.csproj.CoreCompileInputs.cache
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\Bll.csproj.CopyComplete
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\Bll.dll
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\ref\Bll.dll
+D:\ProjC#\Solution1\Bll\obj\Debug\net5.0\Bll.pdb
